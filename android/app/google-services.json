@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221712271707",
+    "project_id": "train-backend-b824f",
+    "storage_bucket": "train-backend-b824f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221712271707:android:3d092055aff1a063e2f27e",
+        "android_client_info": {
+          "package_name": "com.example.swe_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3W99o67V-4mXt0gReAZ3x3weO1Pa38I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
